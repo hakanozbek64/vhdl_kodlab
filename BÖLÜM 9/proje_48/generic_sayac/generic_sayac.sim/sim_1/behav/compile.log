@@ -1,0 +1,5 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/generic_sayac/generic_sayac.srcs/sources_1/new/generic_sayac.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity generic_sayac
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/generic_sayac/generic_sayac.srcs/sim_1/new/tb_generic_sayac.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_generic_sayac

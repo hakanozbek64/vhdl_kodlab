@@ -1,0 +1,5 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/kaydirmali_saklayici/kaydirmali_saklayici.srcs/sources_1/new/kaydirmali_saklayici.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity kaydirmali_saklayici
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/kaydirmali_saklayici/kaydirmali_saklayici.srcs/sim_1/new/tb_kaydirmali_saklayici.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_kaydirmali_saklayici

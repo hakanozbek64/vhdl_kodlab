@@ -1,0 +1,1 @@
+-wto "1c73bc073adb48309d64b9e745f7bea1" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "yari_toplayici_bit_behav" "xil_defaultlib.yari_toplayici_bit" -log "elaborate.log" 

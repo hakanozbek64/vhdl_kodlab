@@ -1,0 +1,1 @@
+-wto "16986e4a4be04593a8b08e4805c78700" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "tam_toplayici_behav" "xil_defaultlib.tam_toplayici" -log "elaborate.log" 

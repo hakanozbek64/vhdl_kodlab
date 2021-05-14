@@ -1,0 +1,7 @@
+Running: xsim.dir/carpim_operatorleri_behav/xsimk.exe -simmode gui -wdb carpim_operatorleri_behav.wdb -simrunnum 0 -socket 49540
+Design successfully loaded
+Design Loading Memory Usage: 20540 KB (Peak: 20540 KB)
+Design Loading CPU Usage: 530 ms
+Simulation completed
+Simulation Memory Usage: 20832 KB (Peak: 20832 KB)
+Simulation CPU Usage: 530 ms

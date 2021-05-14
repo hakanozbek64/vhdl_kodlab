@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ornek_signed_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ornek_signed" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject db_ref_id="1" fp_name="/ornek_signed/in_giris_1" type="other">
+      <obj_property name="ElementShortName">in_giris_1</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_signed/in_giris_2" type="other">
+      <obj_property name="ElementShortName">in_giris_2</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_signed/in_giris_3" type="other">
+      <obj_property name="ElementShortName">in_giris_3</obj_property>
+      <obj_property name="ObjectShortName">in_giris_3</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_signed/out_cikis_1" type="other">
+      <obj_property name="ElementShortName">out_cikis_1</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_1</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_signed/out_cikis_2" type="other">
+      <obj_property name="ElementShortName">out_cikis_2</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_2</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

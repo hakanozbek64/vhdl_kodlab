@@ -1,0 +1,1 @@
+-wto "e23ff01bd8044d3c84ce1480df0a6e17" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "mantiksal_operatorler_behav" "xil_defaultlib.mantiksal_operatorler" -log "elaborate.log" 

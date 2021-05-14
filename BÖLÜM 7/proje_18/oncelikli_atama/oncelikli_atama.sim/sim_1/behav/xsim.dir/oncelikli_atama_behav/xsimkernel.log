@@ -1,0 +1,7 @@
+Running: xsim.dir/oncelikli_atama_behav/xsimk.exe -simmode gui -wdb oncelikli_atama_behav.wdb -simrunnum 0 -socket 52384
+Design successfully loaded
+Design Loading Memory Usage: 20616 KB (Peak: 20616 KB)
+Design Loading CPU Usage: 561 ms
+Simulation completed
+Simulation Memory Usage: 20904 KB (Peak: 20904 KB)
+Simulation CPU Usage: 592 ms

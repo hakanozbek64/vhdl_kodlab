@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="while_ornek_function_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="while_ornek_function" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="2" />
+   <wvobject db_ref_id="1" fp_name="/while_ornek_function/in_giris" type="array">
+      <obj_property name="ElementShortName">in_giris[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/while_ornek_function/out_cikis" type="array">
+      <obj_property name="ElementShortName">out_cikis[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis[7:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,1 @@
+-wto "a75cde1d9ece496f9c3337902fb6db2e" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "nand_kapi_signal_behav" "xil_defaultlib.nand_kapi_signal" -log "elaborate.log" 

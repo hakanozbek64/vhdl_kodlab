@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_generic_kaydirmali_saklayici_behav/xsimk.exe -simmode gui -wdb tb_generic_kaydirmali_saklayici_behav.wdb -simrunnum 0 -socket 49472
+Design successfully loaded
+Design Loading Memory Usage: 20192 KB (Peak: 20192 KB)
+Design Loading CPU Usage: 545 ms
+Simulation completed
+Simulation Memory Usage: 20488 KB (Peak: 20488 KB)
+Simulation CPU Usage: 545 ms

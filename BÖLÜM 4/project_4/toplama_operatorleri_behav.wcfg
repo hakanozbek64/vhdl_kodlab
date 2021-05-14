@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="toplama_operatorleri_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="toplama_operatorleri" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject db_ref_id="1" fp_name="/toplama_operatorleri/in_giris_1" type="array">
+      <obj_property name="ElementShortName">in_giris_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/toplama_operatorleri/in_giris_2" type="array">
+      <obj_property name="ElementShortName">in_giris_2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/toplama_operatorleri/out_cikis_toplam" type="array">
+      <obj_property name="ElementShortName">out_cikis_toplam[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_toplam[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/toplama_operatorleri/out_cikis_fark" type="array">
+      <obj_property name="ElementShortName">out_cikis_fark[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_fark[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/toplama_operatorleri/out_cikis_ekleme" type="array">
+      <obj_property name="ElementShortName">out_cikis_ekleme[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_ekleme[7:0]</obj_property>
+   </wvobject>
+</wave_config>

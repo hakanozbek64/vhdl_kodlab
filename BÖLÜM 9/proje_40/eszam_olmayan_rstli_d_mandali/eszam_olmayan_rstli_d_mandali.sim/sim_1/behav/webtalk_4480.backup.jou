@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sat Apr 24 22:20:12 2021
+# Process ID: 8128
+# Log file: C:/Users/Hakan/Documents/VHDL_Proje/eszam_olmayan_rstli_d_mandali/eszam_olmayan_rstli_d_mandali.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Hakan/Documents/VHDL_Proje/eszam_olmayan_rstli_d_mandali/eszam_olmayan_rstli_d_mandali.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Hakan/Documents/VHDL_Proje/eszam_olmayan_rstli_d_mandali/eszam_olmayan_rstli_d_mandali.sim/sim_1/behav/xsim.dir/tb_eszam_olmayan_rstli_d_mandali_behav/webtalk/xsim_webtalk.tcl -notrace

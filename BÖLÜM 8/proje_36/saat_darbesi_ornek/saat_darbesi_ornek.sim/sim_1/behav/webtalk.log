@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Wed Apr 21 22:00:54 2021
+# Process ID: 1416
+# Log file: C:/Users/Hakan/Documents/VHDL_Proje/saat_darbesi_ornek/saat_darbesi_ornek.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Hakan/Documents/VHDL_Proje/saat_darbesi_ornek/saat_darbesi_ornek.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Hakan/Documents/VHDL_Proje/saat_darbesi_ornek/saat_darbesi_ornek.sim/sim_1/behav/xsim.dir/saat_darbesi_ornek_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 281244951 -regid "212188798_0_0_507" -xml C:/Users/Hakan/Documents/VHDL_Proje/saat_darbesi_ornek/saat_darbesi_ornek.sim/sim..."
+    (file "C:/Users/Hakan/Documents/VHDL_Proje/saat_darbesi_ornek/saat_darbesi_ornek.sim/sim_1/behav/xsim.dir/saat_darbesi_ornek_behav/webtalk/xsim_webtalk.tcl" line 32)
+INFO: [Common 17-206] Exiting Webtalk at Wed Apr 21 22:00:58 2021...

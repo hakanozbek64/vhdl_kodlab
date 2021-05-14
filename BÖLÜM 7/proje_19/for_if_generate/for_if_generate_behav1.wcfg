@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="for_if_generate_behav1.wdb" id="1">
+         <top_modules>
+            <top_module name="for_if_generate" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject db_ref_id="1" fp_name="/for_if_generate/in_giris_1" type="array">
+      <obj_property name="ElementShortName">in_giris_1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/for_if_generate/in_giris_2" type="array">
+      <obj_property name="ElementShortName">in_giris_2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/for_if_generate/out_cikis" type="array">
+      <obj_property name="ElementShortName">out_cikis[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/for_if_generate/out_cikis_elde" type="logic">
+      <obj_property name="ElementShortName">out_cikis_elde</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_elde</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/for_if_generate/r_toplam" type="array">
+      <obj_property name="ElementShortName">r_toplam[8:1]</obj_property>
+      <obj_property name="ObjectShortName">r_toplam[8:1]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="yari_toplayici_bit_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="yari_toplayici_bit" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject db_ref_id="1" fp_name="/yari_toplayici_bit/in_giris_1" type="logic">
+      <obj_property name="ElementShortName">in_giris_1</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/yari_toplayici_bit/in_giris_2" type="logic">
+      <obj_property name="ElementShortName">in_giris_2</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/yari_toplayici_bit/out_cikis" type="logic">
+      <obj_property name="ElementShortName">out_cikis</obj_property>
+      <obj_property name="ObjectShortName">out_cikis</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/yari_toplayici_bit/out_cikis_elde" type="logic">
+      <obj_property name="ElementShortName">out_cikis_elde</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_elde</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,7 @@
+Running: xsim.dir/yari_toplayici_behav/xsimk.exe -simmode gui -wdb yari_toplayici_behav.wdb -simrunnum 0 -socket 49313
+Design successfully loaded
+Design Loading Memory Usage: 20072 KB (Peak: 20072 KB)
+Design Loading CPU Usage: 545 ms
+Simulation completed
+Simulation Memory Usage: 20336 KB (Peak: 20336 KB)
+Simulation CPU Usage: 608 ms

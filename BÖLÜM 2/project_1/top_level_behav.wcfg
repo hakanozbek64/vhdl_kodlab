@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_level_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="top_level" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="3" />
+   <wvobject db_ref_id="1" fp_name="/top_level/iCLK" type="logic">
+      <obj_property name="ElementShortName">iCLK</obj_property>
+      <obj_property name="ObjectShortName">iCLK</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/top_level/iRST" type="logic">
+      <obj_property name="ElementShortName">iRST</obj_property>
+      <obj_property name="ObjectShortName">iRST</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/top_level/oCNT" type="array">
+      <obj_property name="ElementShortName">oCNT[3:0]</obj_property>
+      <obj_property name="ObjectShortName">oCNT[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

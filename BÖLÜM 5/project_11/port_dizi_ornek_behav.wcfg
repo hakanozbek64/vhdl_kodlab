@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="port_dizi_ornek_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="port_dizi_ornek" />
+            <top_module name="port_dizi_paket" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="2" />
+   <wvobject db_ref_id="1" fp_name="/port_dizi_ornek/in_giris" type="array">
+      <obj_property name="ElementShortName">in_giris[3:0][0:7]</obj_property>
+      <obj_property name="ObjectShortName">in_giris[3:0][0:7]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/port_dizi_ornek/out_cikis" type="array">
+      <obj_property name="ElementShortName">out_cikis[3:0][0:7]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis[3:0][0:7]</obj_property>
+   </wvobject>
+</wave_config>

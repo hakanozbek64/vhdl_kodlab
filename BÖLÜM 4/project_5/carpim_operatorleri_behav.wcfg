@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="carpim_operatorleri_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="carpim_operatorleri" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="7" />
+   <wvobject db_ref_id="1" fp_name="/carpim_operatorleri/in_giris_1" type="array">
+      <obj_property name="ElementShortName">in_giris_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/carpim_operatorleri/in_giris_2" type="array">
+      <obj_property name="ElementShortName">in_giris_2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/carpim_operatorleri/in_giris_3" type="other">
+      <obj_property name="ElementShortName">in_giris_3</obj_property>
+      <obj_property name="ObjectShortName">in_giris_3</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/carpim_operatorleri/out_cikis_carpim" type="array">
+      <obj_property name="ElementShortName">out_cikis_carpim[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_carpim[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/carpim_operatorleri/out_cikis_bolme" type="other">
+      <obj_property name="ElementShortName">out_cikis_bolme</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_bolme</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/carpim_operatorleri/out_cikis_mod" type="other">
+      <obj_property name="ElementShortName">out_cikis_mod</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_mod</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/carpim_operatorleri/out_cikis_rem" type="other">
+      <obj_property name="ElementShortName">out_cikis_rem</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_rem</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

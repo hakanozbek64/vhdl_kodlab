@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mantiksal_operatorler_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="mantiksal_operatorler" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="8" />
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/in_giris_1" type="logic">
+      <obj_property name="ElementShortName">in_giris_1</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/in_giris_2" type="logic">
+      <obj_property name="ElementShortName">in_giris_2</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/out_cikis_and" type="logic">
+      <obj_property name="ElementShortName">out_cikis_and</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_and</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/out_cikis_or" type="logic">
+      <obj_property name="ElementShortName">out_cikis_or</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_or</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/out_cikis_nand" type="logic">
+      <obj_property name="ElementShortName">out_cikis_nand</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_nand</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/out_cikis_nor" type="logic">
+      <obj_property name="ElementShortName">out_cikis_nor</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_nor</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/out_cikis_xor" type="logic">
+      <obj_property name="ElementShortName">out_cikis_xor</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_xor</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/mantiksal_operatorler/out_cikis_xnor" type="logic">
+      <obj_property name="ElementShortName">out_cikis_xnor</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_xnor</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,1 @@
+-wto "33d87de5c0b2477f8ad4c2dc78edc07f" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "dort_bit_toplayici_behav" "xil_defaultlib.dort_bit_toplayici" -log "elaborate.log" 

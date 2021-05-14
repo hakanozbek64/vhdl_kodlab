@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_toplayici_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_toplayici" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="7" />
+   <wvobject db_ref_id="1" fp_name="/tb_toplayici/in_giris4_1" type="array">
+      <obj_property name="ElementShortName">in_giris4_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris4_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_toplayici/in_giris4_2" type="array">
+      <obj_property name="ElementShortName">in_giris4_2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris4_2[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_toplayici/out_cikis4" type="array">
+      <obj_property name="ElementShortName">out_cikis4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis4[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_toplayici/out_cikis_elde4" type="logic">
+      <obj_property name="ElementShortName">out_cikis_elde4</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_elde4</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_toplayici/in_giris8_1" type="array">
+      <obj_property name="ElementShortName">in_giris8_1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris8_1[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_toplayici/in_giris8_2" type="array">
+      <obj_property name="ElementShortName">in_giris8_2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris8_2[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_toplayici/out_cikis8" type="array">
+      <obj_property name="ElementShortName">out_cikis8[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis8[7:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,7 @@
+Running: xsim.dir/dort_bit_toplayici_behav/xsimk.exe -simmode gui -wdb dort_bit_toplayici_behav.wdb -simrunnum 0 -socket 49882
+Design successfully loaded
+Design Loading Memory Usage: 20772 KB (Peak: 20772 KB)
+Design Loading CPU Usage: 545 ms
+Simulation completed
+Simulation Memory Usage: 21020 KB (Peak: 21020 KB)
+Simulation CPU Usage: 607 ms

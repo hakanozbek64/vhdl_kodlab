@@ -1,0 +1,5 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/eszam_rstli_d_mandali/eszam_rstli_d_mandali.srcs/sources_1/new/eszam_rstli_d_mandali.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity eszam_rstli_d_mandali
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/eszam_rstli_d_mandali/eszam_rstli_d_mandali.srcs/sim_1/new/tb_eszam_rstli_d_mandali.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_eszam_rstli_d_mandali

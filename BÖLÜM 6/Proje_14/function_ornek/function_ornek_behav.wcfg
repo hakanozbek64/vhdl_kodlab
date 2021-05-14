@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="function_ornek_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="function_ornek" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject db_ref_id="1" fp_name="/function_ornek/in_giris_elde" type="logic">
+      <obj_property name="ElementShortName">in_giris_elde</obj_property>
+      <obj_property name="ObjectShortName">in_giris_elde</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/function_ornek/in_giris_1" type="array">
+      <obj_property name="ElementShortName">in_giris_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/function_ornek/in_giris_2" type="array">
+      <obj_property name="ElementShortName">in_giris_2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/function_ornek/out_cikis" type="array">
+      <obj_property name="ElementShortName">out_cikis[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/function_ornek/out_cikis_elde" type="logic">
+      <obj_property name="ElementShortName">out_cikis_elde</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_elde</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/function_ornek/r_toplama_sonuc" type="array">
+      <obj_property name="ElementShortName">r_toplama_sonuc[4:0]</obj_property>
+      <obj_property name="ObjectShortName">r_toplama_sonuc[4:0]</obj_property>
+   </wvobject>
+</wave_config>

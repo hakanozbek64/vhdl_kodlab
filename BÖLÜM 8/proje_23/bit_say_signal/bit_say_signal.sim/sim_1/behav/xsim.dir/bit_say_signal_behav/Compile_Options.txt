@@ -1,0 +1,1 @@
+-wto "928fb64f44dc47eb9fc41bfd239cc4c8" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "bit_say_signal_behav" "xil_defaultlib.bit_say_signal" -log "elaborate.log" 

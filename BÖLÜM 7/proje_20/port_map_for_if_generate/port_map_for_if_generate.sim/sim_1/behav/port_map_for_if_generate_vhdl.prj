@@ -1,0 +1,4 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../../../Desktop/Projeler/VHDL_BLM_7_Kodlar/ORNEK_7_4/yari_toplayici.vhd"
+vhdl xil_defaultlib  "../../../../../../Desktop/Projeler/VHDL_BLM_7_Kodlar/ORNEK_7_4/tam_toplayici.vhd"
+vhdl xil_defaultlib  "../../../../../../Desktop/Projeler/VHDL_BLM_7_Kodlar/ORNEK_7_4/port_map_for_if_generate.vhd"

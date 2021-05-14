@@ -1,0 +1,7 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Desktop/Projeler/VHDL_BLM_7_Kodlar/ORNEK_7_4/yari_toplayici.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity yari_toplayici
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Desktop/Projeler/VHDL_BLM_7_Kodlar/ORNEK_7_4/tam_toplayici.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tam_toplayici
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Desktop/Projeler/VHDL_BLM_7_Kodlar/ORNEK_7_4/port_map_for_if_generate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity port_map_for_if_generate

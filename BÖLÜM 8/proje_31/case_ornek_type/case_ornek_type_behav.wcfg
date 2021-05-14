@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="case_ornek_type_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="case_ornek_type" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject db_ref_id="1" fp_name="/case_ornek_type/in_giris_1" type="array">
+      <obj_property name="ElementShortName">in_giris_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/case_ornek_type/in_giris_2" type="array">
+      <obj_property name="ElementShortName">in_giris_2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/case_ornek_type/out_cikis" type="array">
+      <obj_property name="ElementShortName">out_cikis[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/case_ornek_type/r_MATH_ISLEM" type="other">
+      <obj_property name="ElementShortName">r_MATH_ISLEM</obj_property>
+      <obj_property name="ObjectShortName">r_MATH_ISLEM</obj_property>
+   </wvobject>
+</wave_config>

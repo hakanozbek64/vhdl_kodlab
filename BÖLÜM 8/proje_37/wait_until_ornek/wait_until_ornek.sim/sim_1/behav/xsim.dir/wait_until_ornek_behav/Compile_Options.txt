@@ -1,0 +1,1 @@
+-wto "6d058aec8319498793f6feab05ae64d5" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "wait_until_ornek_behav" "xil_defaultlib.wait_until_ornek" -log "elaborate.log" 

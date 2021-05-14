@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_d_latch_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_d_latch" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject db_ref_id="1" fp_name="/tb_d_latch/in_en" type="logic">
+      <obj_property name="ElementShortName">in_en</obj_property>
+      <obj_property name="ObjectShortName">in_en</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_d_latch/in_giris" type="logic">
+      <obj_property name="ElementShortName">in_giris</obj_property>
+      <obj_property name="ObjectShortName">in_giris</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_d_latch/out_cikis" type="logic">
+      <obj_property name="ElementShortName">out_cikis</obj_property>
+      <obj_property name="ObjectShortName">out_cikis</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_d_latch/out_cikis_degil" type="logic">
+      <obj_property name="ElementShortName">out_cikis_degil</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_degil</obj_property>
+   </wvobject>
+</wave_config>

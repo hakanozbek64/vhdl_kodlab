@@ -1,0 +1,7 @@
+Running: xsim.dir/eszam_rstli_d_mandali_behav/xsimk.exe -simmode gui -wdb eszam_rstli_d_mandali_behav.wdb -simrunnum 0 -socket 51273
+Design successfully loaded
+Design Loading Memory Usage: 20940 KB (Peak: 20940 KB)
+Design Loading CPU Usage: 436 ms
+Simulation completed
+Simulation Memory Usage: 20940 KB (Peak: 20940 KB)
+Simulation CPU Usage: 436 ms

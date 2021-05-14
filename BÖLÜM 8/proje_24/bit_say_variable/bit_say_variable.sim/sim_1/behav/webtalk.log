@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sat Apr 17 14:50:48 2021
+# Process ID: 1704
+# Log file: C:/Users/Hakan/Documents/VHDL_Proje/bit_say_variable/bit_say_variable.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Hakan/Documents/VHDL_Proje/bit_say_variable/bit_say_variable.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Hakan/Documents/VHDL_Proje/bit_say_variable/bit_say_variable.sim/sim_1/behav/xsim.dir/bit_say_variable_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 1919839905 -regid "212188798_0_0_507" -xml C:/Users/Hakan/Documents/VHDL_Proje/bit_say_variable/bit_say_variable.sim/sim_1/..."
+    (file "C:/Users/Hakan/Documents/VHDL_Proje/bit_say_variable/bit_say_variable.sim/sim_1/behav/xsim.dir/bit_say_variable_behav/webtalk/xsim_webtalk.tcl" line 32)
+INFO: [Common 17-206] Exiting Webtalk at Sat Apr 17 14:50:53 2021...

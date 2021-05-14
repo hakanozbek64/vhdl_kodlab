@@ -1,0 +1,1 @@
+-wto "083e5e62b2c34ac9b46bb06cb11320ce" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "dosya_okuma_integer_behav" "xil_defaultlib.dosya_okuma_integer" -log "elaborate.log" 

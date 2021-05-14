@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_saklayici_generic_aktif_signal_behav/xsimk.exe -simmode gui -wdb tb_saklayici_generic_aktif_signal_behav.wdb -simrunnum 0 -socket 49588
+Design successfully loaded
+Design Loading Memory Usage: 20136 KB (Peak: 20136 KB)
+Design Loading CPU Usage: 405 ms
+Simulation completed
+Simulation Memory Usage: 20412 KB (Peak: 20412 KB)
+Simulation CPU Usage: 421 ms

@@ -1,0 +1,7 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Desktop/Projeler/VHDL_BLM_6_Kodlar/ORNEK_6_2/tam_toplayici.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tam_toplayici
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Desktop/Projeler/VHDL_BLM_6_Kodlar/ORNEK_6_2/generic_toplayici.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity generic_toplayici
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Desktop/Projeler/VHDL_BLM_6_Kodlar/ORNEK_6_2/tb_toplayici.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_toplayici

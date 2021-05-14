@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="for_ornek_process_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="for_ornek_process" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="3" />
+   <wvobject db_ref_id="1" fp_name="/for_ornek_process/in_giris" type="array">
+      <obj_property name="ElementShortName">in_giris[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/for_ornek_process/out_cikis" type="array">
+      <obj_property name="ElementShortName">out_cikis[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/for_ornek_process/r_sinyal_sonuc" type="array">
+      <obj_property name="ElementShortName">r_sinyal_sonuc[7:0]</obj_property>
+      <obj_property name="ObjectShortName">r_sinyal_sonuc[7:0]</obj_property>
+   </wvobject>
+</wave_config>

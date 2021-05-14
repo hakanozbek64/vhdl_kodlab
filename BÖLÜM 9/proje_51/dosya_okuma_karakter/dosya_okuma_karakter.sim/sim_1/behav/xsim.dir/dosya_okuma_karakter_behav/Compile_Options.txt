@@ -1,0 +1,1 @@
+-wto "277b19956b3742d986cebec4af48fe97" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "dosya_okuma_karakter_behav" "xil_defaultlib.dosya_okuma_karakter" -log "elaborate.log" 

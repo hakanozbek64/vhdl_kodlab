@@ -1,0 +1,1 @@
+-wto "fc122fa199eb4046b77e219295264973" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "ornek_signed_behav" "xil_defaultlib.ornek_signed" -log "elaborate.log" 

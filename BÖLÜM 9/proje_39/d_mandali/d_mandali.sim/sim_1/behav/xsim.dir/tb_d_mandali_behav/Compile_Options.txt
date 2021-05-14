@@ -1,0 +1,1 @@
+-wto "2aec398ee7ec4654b04afb45ff89cf89" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "tb_d_mandali_behav" "xil_defaultlib.tb_d_mandali" -log "elaborate.log" 

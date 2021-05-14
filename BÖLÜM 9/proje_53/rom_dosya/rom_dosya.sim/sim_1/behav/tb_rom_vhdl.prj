@@ -1,0 +1,4 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../rom_dosya.srcs/sources_1/new/ornekler_paket.vhd"
+vhdl xil_defaultlib  "../../../rom_dosya.srcs/sources_1/new/rom_dosya.vhd"
+vhdl xil_defaultlib  "../../../rom_dosya.srcs/sim_1/new/tb_rom.vhd"

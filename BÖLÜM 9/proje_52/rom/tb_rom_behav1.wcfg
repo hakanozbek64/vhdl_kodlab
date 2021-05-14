@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_rom_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ornekler_paket" />
+            <top_module name="tb_rom" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject db_ref_id="1" fp_name="/tb_rom/in_clk" type="logic">
+      <obj_property name="ElementShortName">in_clk</obj_property>
+      <obj_property name="ObjectShortName">in_clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/in_rom_aktif" type="logic">
+      <obj_property name="ElementShortName">in_rom_aktif</obj_property>
+      <obj_property name="ObjectShortName">in_rom_aktif</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/in_data_addr_rom" type="array">
+      <obj_property name="ElementShortName">in_data_addr_rom[4:0]</obj_property>
+      <obj_property name="ObjectShortName">in_data_addr_rom[4:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/out_data_rom" type="array">
+      <obj_property name="ElementShortName">out_data_rom[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_data_rom[3:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="AnalogYRangeMin">-9.22337e+18</obj_property>
+      <obj_property name="AnalogYRRangeMax">-9.22337e+18</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_FIXED</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/in_data_addr_rom_dosya" type="array">
+      <obj_property name="ElementShortName">in_data_addr_rom_dosya[8:0]</obj_property>
+      <obj_property name="ObjectShortName">in_data_addr_rom_dosya[8:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/out_data_rom_dosya" type="array">
+      <obj_property name="ElementShortName">out_data_rom_dosya[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_data_rom_dosya[23:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/CLK_PERIOD" type="other">
+      <obj_property name="ElementShortName">CLK_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">CLK_PERIOD</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/ROM_DERINLIGI" type="other">
+      <obj_property name="ElementShortName">ROM_DERINLIGI</obj_property>
+      <obj_property name="ObjectShortName">ROM_DERINLIGI</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/VERI_UZUNLUGU" type="other">
+      <obj_property name="ElementShortName">VERI_UZUNLUGU</obj_property>
+      <obj_property name="ObjectShortName">VERI_UZUNLUGU</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/ROM_DERINLIGI_DOSYA" type="other">
+      <obj_property name="ElementShortName">ROM_DERINLIGI_DOSYA</obj_property>
+      <obj_property name="ObjectShortName">ROM_DERINLIGI_DOSYA</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_rom/VERI_UZUNLUGU_DOSYA" type="other">
+      <obj_property name="ElementShortName">VERI_UZUNLUGU_DOSYA</obj_property>
+      <obj_property name="ObjectShortName">VERI_UZUNLUGU_DOSYA</obj_property>
+   </wvobject>
+</wave_config>

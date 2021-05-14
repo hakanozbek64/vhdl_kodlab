@@ -1,0 +1,1 @@
+-wto "aee13ad8733c4b489d0223702b71bb42" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "tb_sayac_4_bit_behav" "xil_defaultlib.tb_sayac_4_bit" -log "elaborate.log" 

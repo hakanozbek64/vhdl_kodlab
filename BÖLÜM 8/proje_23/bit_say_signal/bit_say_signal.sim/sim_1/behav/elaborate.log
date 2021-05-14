@@ -1,0 +1,14 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2014.4/bin/unwrapped/win64.o/xelab.exe -wto 928fb64f44dc47eb9fc41bfd239cc4c8 --debug typical --relax -L xil_defaultlib -L secureip --snapshot bit_say_signal_behav xil_defaultlib.bit_say_signal -log elaborate.log 
+Multi-threading is on. Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.bit_say_signal
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot bit_say_signal_behav

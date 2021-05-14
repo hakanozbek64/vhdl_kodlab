@@ -1,0 +1,7 @@
+Running: xsim.dir/toplama_operatorleri_behav/xsimk.exe -simmode gui -wdb toplama_operatorleri_behav.wdb -simrunnum 0 -socket 49337
+Design successfully loaded
+Design Loading Memory Usage: 21128 KB (Peak: 21128 KB)
+Design Loading CPU Usage: 482 ms
+Simulation completed
+Simulation Memory Usage: 21440 KB (Peak: 21440 KB)
+Simulation CPU Usage: 546 ms

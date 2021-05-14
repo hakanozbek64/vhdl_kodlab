@@ -1,0 +1,19 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2014.4/bin/unwrapped/win64.o/xelab.exe -wto 2087cceb545e4707b3ec292ae4d47064 --debug typical --relax -L xil_defaultlib -L secureip --snapshot tb_rom_behav xil_defaultlib.tb_rom -log elaborate.log 
+Multi-threading is on. Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-122] rom_dosya remains a black-box since it has no binding entity [C:/Users/Hakan/Documents/VHDL_Proje/rom/rom.srcs/sim_1/new/tb_rom.vhd:83]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package xil_defaultlib.ornekler_paket
+Compiling architecture behavioral of entity xil_defaultlib.rom [\rom(30,4)\]
+Compiling architecture behavioral of entity xil_defaultlib.tb_rom
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot tb_rom_behav

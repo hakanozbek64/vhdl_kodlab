@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Tue Apr 20 21:38:41 2021
+# Process ID: 5776
+# Log file: C:/Users/Hakan/Documents/VHDL_Proje/while_ornek_process/while_ornek_process.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Hakan/Documents/VHDL_Proje/while_ornek_process/while_ornek_process.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Hakan/Documents/VHDL_Proje/while_ornek_process/while_ornek_process.sim/sim_1/behav/xsim.dir/while_ornek_process_behav/webtalk/xsim_webtalk.tcl -notrace

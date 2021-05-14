@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="wait_until_ornek_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="wait_until_ornek" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject db_ref_id="1" fp_name="/wait_until_ornek/in_clk" type="logic">
+      <obj_property name="ElementShortName">in_clk</obj_property>
+      <obj_property name="ObjectShortName">in_clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/wait_until_ornek/in_giris_1" type="logic">
+      <obj_property name="ElementShortName">in_giris_1</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/wait_until_ornek/in_giris_2" type="logic">
+      <obj_property name="ElementShortName">in_giris_2</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/wait_until_ornek/in_giris_secme" type="logic">
+      <obj_property name="ElementShortName">in_giris_secme</obj_property>
+      <obj_property name="ObjectShortName">in_giris_secme</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/wait_until_ornek/out_cikis" type="logic">
+      <obj_property name="ElementShortName">out_cikis</obj_property>
+      <obj_property name="ObjectShortName">out_cikis</obj_property>
+   </wvobject>
+</wave_config>

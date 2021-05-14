@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ornek_std_logic_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ornek_std_logic" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject db_ref_id="1" fp_name="/ornek_std_logic/in_giris_1" type="array">
+      <obj_property name="ElementShortName">in_giris_1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_1[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_std_logic/in_giris_2" type="array">
+      <obj_property name="ElementShortName">in_giris_2[1:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris_2[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_std_logic/out_cikis_toplam" type="array">
+      <obj_property name="ElementShortName">out_cikis_toplam[1:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_toplam[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_std_logic/out_cikis_fark" type="array">
+      <obj_property name="ElementShortName">out_cikis_fark[1:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_fark[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ornek_std_logic/out_cikis_carpim" type="array">
+      <obj_property name="ElementShortName">out_cikis_carpim[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_cikis_carpim[3:0]</obj_property>
+   </wvobject>
+</wave_config>

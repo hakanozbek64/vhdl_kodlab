@@ -1,0 +1,1 @@
+-wto "ac5305d24457403494e557c79110520c" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "paket_kullanimi_behav" "xil_defaultlib.paket_kullanimi" -log "elaborate.log" 

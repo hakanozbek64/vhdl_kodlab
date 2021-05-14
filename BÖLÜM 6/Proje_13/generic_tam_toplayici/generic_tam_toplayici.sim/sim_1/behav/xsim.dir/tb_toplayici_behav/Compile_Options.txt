@@ -1,0 +1,1 @@
+-wto "450b920cd2ca43b190af510e979edccf" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "tb_toplayici_behav" "xil_defaultlib.tb_toplayici" -log "elaborate.log" 

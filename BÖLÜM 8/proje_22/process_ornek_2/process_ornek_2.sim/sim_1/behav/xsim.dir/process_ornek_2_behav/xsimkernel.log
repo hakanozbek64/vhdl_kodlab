@@ -1,0 +1,7 @@
+Running: xsim.dir/process_ornek_2_behav/xsimk.exe -simmode gui -wdb process_ornek_2_behav.wdb -simrunnum 0 -socket 49255
+Design successfully loaded
+Design Loading Memory Usage: 20152 KB (Peak: 20152 KB)
+Design Loading CPU Usage: 436 ms
+Simulation completed
+Simulation Memory Usage: 20416 KB (Peak: 20416 KB)
+Simulation CPU Usage: 529 ms

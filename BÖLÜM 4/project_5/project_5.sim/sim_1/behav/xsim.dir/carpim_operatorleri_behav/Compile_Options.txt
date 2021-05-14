@@ -1,0 +1,1 @@
+-wto "d9e3e701b23f4cfd8cfb01f9c4856a28" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "carpim_operatorleri_behav" "xil_defaultlib.carpim_operatorleri" -log "elaborate.log" 

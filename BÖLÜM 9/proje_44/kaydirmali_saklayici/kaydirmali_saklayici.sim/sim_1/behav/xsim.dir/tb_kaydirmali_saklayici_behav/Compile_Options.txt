@@ -1,0 +1,1 @@
+-wto "5427d0aa48d94f0eb59d3aa8e1241497" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "tb_kaydirmali_saklayici_behav" "xil_defaultlib.tb_kaydirmali_saklayici" -log "elaborate.log" 

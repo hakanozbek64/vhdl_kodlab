@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="nand_kapi_variable_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="nand_kapi_variable" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="3" />
+   <wvobject db_ref_id="1" fp_name="/nand_kapi_variable/in_giris" type="array">
+      <obj_property name="ElementShortName">in_giris[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_giris[7:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/nand_kapi_variable/out_cikis" type="logic">
+      <obj_property name="ElementShortName">out_cikis</obj_property>
+      <obj_property name="ObjectShortName">out_cikis</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/nand_kapi_variable/r_nand_sonuc" type="logic">
+      <obj_property name="ElementShortName">r_nand_sonuc</obj_property>
+      <obj_property name="ObjectShortName">r_nand_sonuc</obj_property>
+   </wvobject>
+</wave_config>

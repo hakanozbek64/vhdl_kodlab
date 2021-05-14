@@ -1,0 +1,5 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/saklayici_generic_aktif_signal/saklayici_generic_aktif_signal.srcs/sources_1/new/saklayici_generic_aktif_signal.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity saklayici_generic_aktif_signal
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hakan/Documents/VHDL_Proje/saklayici_generic_aktif_signal/saklayici_generic_aktif_signal.srcs/sim_1/new/tb_saklayici_generic_aktif_signal.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_saklayici_generic_aktif_signal

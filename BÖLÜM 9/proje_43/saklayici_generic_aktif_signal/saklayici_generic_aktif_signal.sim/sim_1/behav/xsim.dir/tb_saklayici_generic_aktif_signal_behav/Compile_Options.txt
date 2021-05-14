@@ -1,0 +1,1 @@
+-wto "9ff3e639defc46e99706f6262292914d" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "tb_saklayici_generic_aktif_signal_behav" "xil_defaultlib.tb_saklayici_generic_aktif_signal" -log "elaborate.log" 

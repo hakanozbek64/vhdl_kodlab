@@ -1,0 +1,4 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../../../Desktop/Projeler/VHDL_BLM_6_Kodlar/ORNEK_6_2/tam_toplayici.vhd"
+vhdl xil_defaultlib  "../../../../../../Desktop/Projeler/VHDL_BLM_6_Kodlar/ORNEK_6_2/generic_toplayici.vhd"
+vhdl xil_defaultlib  "../../../../../../Desktop/Projeler/VHDL_BLM_6_Kodlar/ORNEK_6_2/tb_toplayici.vhd"

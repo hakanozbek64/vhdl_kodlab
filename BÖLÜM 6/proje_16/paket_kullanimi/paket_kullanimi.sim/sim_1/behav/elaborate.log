@@ -1,0 +1,16 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2014.4/bin/unwrapped/win64.o/xelab.exe -wto ac5305d24457403494e557c79110520c --debug typical --relax -L xil_defaultlib -L secureip --snapshot paket_kullanimi_behav xil_defaultlib.paket_kullanimi -log elaborate.log 
+Multi-threading is on. Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-122] generic_toplayici remains a black-box since it has no binding entity [C:/Users/Hakan/Desktop/Projeler/VHDL_BLM_6_Kodlar/ORNEK_6_5/paket_kullanimi.vhd:17]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package xil_defaultlib.benim_paketim
+Compiling architecture behavioral of entity xil_defaultlib.paket_kullanimi
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot paket_kullanimi_behav

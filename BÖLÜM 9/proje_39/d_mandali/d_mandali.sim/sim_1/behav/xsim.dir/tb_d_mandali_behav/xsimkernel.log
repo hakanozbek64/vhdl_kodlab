@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_d_mandali_behav/xsimk.exe -simmode gui -wdb tb_d_mandali_behav.wdb -simrunnum 0 -socket 51190
+Design successfully loaded
+Design Loading Memory Usage: 20108 KB (Peak: 20108 KB)
+Design Loading CPU Usage: 499 ms
+Simulation completed
+Simulation Memory Usage: 20400 KB (Peak: 20400 KB)
+Simulation CPU Usage: 499 ms
